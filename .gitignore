@@ -1,0 +1,5 @@
+# build
+
+/dist
+/CSSdotPy.egg-info
+/build

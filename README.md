@@ -1,2 +1,18 @@
 # CSS.py
- A library for writing CSS code and then compiling it into default CSS.
+
+A simple way of making CSS code in Python.
+
+## Your CSS.py installation
+
+### Installing CSS.py
+
+```
+pip install cssdotpy
+```
+### Updating CSS.py
+
+```
+pip install --upgrade cssdotpy
+```
+
+
