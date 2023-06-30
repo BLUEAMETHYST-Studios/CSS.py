@@ -1,6 +1,6 @@
 # CSS.PY is licensed under the GNU GPL 3
 
-from cssdotpy.license import license
+from cssdotpy.license import license_short, license_full
 from cssdotpy.main import CSS
 
 def disclaimer():

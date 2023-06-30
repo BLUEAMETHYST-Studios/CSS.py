@@ -75,8 +75,8 @@ MyCSS.addEventToElement(element="p", event="hover", style=["color:blue", "transf
 MyCSS.addEventToClass(name="MyClassName", event="hover", style=["color:blue", "transform: scale(1.1)"])
 
 # Print CSS
-print(MyCSS.returnCSS)
+print(MyCSS.returnCSS())
 
 # Output to file
-open("output.css", "w").write(MyCSS.returnCSS)
+open("output.css", "w").write(MyCSS.returnCSS())
 ```

@@ -3,3 +3,7 @@
 /dist
 /CSSdotPy.egg-info
 /build
+
+# testing
+__pycache__
+TEST.PY

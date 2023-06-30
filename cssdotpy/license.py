@@ -7,5 +7,3 @@ CSS.py is licensed under GNU GPL 3.0
           
 def license_full():
     open_new_tab("https://www.gnu.org/licenses/gpl-3.0.html")
-
-license_full()

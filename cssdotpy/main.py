@@ -3,8 +3,8 @@ from cssdotpy.addclass import add_class
 from cssdotpy.addevent import add_event_to_element, add_event_to_class
 
 class CSS():
-    def __init__(self, css):
-        self.__css__ = css
+    def __init__(self):
+        self.__css__ = ""
     def addElement(self, element, style):
         self.__css__ = add_element(element=element, style=style, startval=self.__css__)
     def addClass(self, name, style):
