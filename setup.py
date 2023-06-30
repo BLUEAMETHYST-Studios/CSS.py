@@ -20,4 +20,13 @@ setup(
     packages=find_packages(),
     keywords=["css", "open-source"],
     license="GNU GENERAL PUBLIC LICENSE VERSION 3",
+    classifiers=[
+        "Development Status :: 3 - Alpha",
+        "License :: OSI Approved :: GNU General Public License v3 (GPLv3)",
+        "Operating System :: Microsoft :: Windows",
+        "Operating System :: POSIX :: Linux",
+        "Programming Language :: Python",
+        "Programming Language :: Python :: 3",
+        "Topic :: Text Processing"
+    ]
 )
