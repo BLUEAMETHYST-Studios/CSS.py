@@ -1,1 +1,0 @@
-open("VERSION", "w").write(input("Version: "))
