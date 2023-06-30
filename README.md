@@ -15,6 +15,13 @@ pip install cssdotpy
 pip install --upgrade cssdotpy
 ```
 
+## Links
+
+- [CODE OF CONDUCT](https://github.com/BLUEAMETHYST-Studios/CSS.py/blob/main/CODE_OF_CONDUCT.md)
+- [CONTRIBUTORS](https://github.com/BLUEAMETHYST-Studios/CSS.py/blob/main/CONTRIBUTORS.md)
+- [CONTRIBUTING POLICY](https://github.com/BLUEAMETHYST-Studios/CSS.py/blob/main/CONTRIBUTING.md)
+- [SECURITY POLICY](https://github.com/BLUEAMETHYST-Studios/CSS.py/blob/main/SECURITY.md)
+
 ## Using it
 
 ### NOTICE: CSS.PY IS IN ALPHA DEVELOPMENT STAGES AND DOES NOT HAVE MANY FEATURES YET
