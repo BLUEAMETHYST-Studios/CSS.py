@@ -7,3 +7,6 @@
 # testing
 __pycache__
 TEST.PY
+
+# secret
+SECRET.TOKEN.txt
